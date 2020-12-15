@@ -33,7 +33,7 @@ Locally you can run it on the node.js console node server.js
 
 
 ## Usage 
-[![Watch the video](https://github.com/dhbhernandez/eat-da-burger/blob/main/public/burger.png?raw=true)](https://youtu.be/eVAFF8dqW7k)
+[![Watch the video](https://github.com/dhbhernandez/eat-da-burger/blob/main/public/burger.png?raw=true)](https://youtu.be/uxcxgrkWiFg)
 
 ## Contribution Guideline
 Diego Hernandez

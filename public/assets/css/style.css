@@ -1,19 +1,75 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+html {
+  background-color: black;
 }
-
-.label {
-  font-weight: bold;
+body {
+  width: 75%;
+ margin: 0 auto; 
+ display: flex;
+ min-height: 100vh;
+ flex-direction: column;
+ background-color: beige;
 }
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
+h1 {
+  text-align: center;
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 65px;
+  margin: 50px;
 }
-
-.form-group {
-  margin-bottom: 5px;
+.burgerAvailable {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  text-align: left;
+  border-radius: 25px;
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+  background-color: #F3D4ABff;
+  border: none;
+}
+.burgerAvailable:hover {
+  background-color: #DF3421ff; ;
+}
+.devour {
+ background-color: green;
+}
+.burgerEaten {
+font-family: 'Rubik Mono One', sans-serif;
+ font-weight: normal;
+ font-size: 15px;
+ text-align: left;
+ border-radius: 25px;
+ width: 100%;
+ margin: 10px;
+ padding: 10px;
+ background-color: #DF3421ff;
+}
+h2 {
+   text-align: center;
+   font-family: 'Rubik Mono One', sans-serif;
+  font-size: 20px;
+  margin: 50px;
+}
+.formContainer {
+  background-color:black;
+}
+.addBurgerButton {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  text-align: center;
+  border-radius: 25px;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  background-color:#F88C34ff;
+  border: none;
+}
+.addBurgerButton:active {
+ background-color: #7D9F4Eff;
+}
+.burgerFooter {
+ background-color:#7D9F4Eff;
+ text-align: center;
+ padding: 20px 0;
 }
